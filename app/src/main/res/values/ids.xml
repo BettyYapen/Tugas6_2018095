@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="nav_details" type="id">nav_details</item>
+    <item name="nav_phone" type="id">nav_phone</item>
+    <item name="nav_trending" type="id">nav_trending</item>
+    <item name="nav_alarm" type="id">nav_alarm</item>
+</resources>
